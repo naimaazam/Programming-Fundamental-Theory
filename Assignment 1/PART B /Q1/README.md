@@ -7,4 +7,4 @@
 |                                             | If nights > 7, calculate **15% discount**                 |                            |
 |                                             | Calculate `total price = (rate × nights) − discount`      |                            |
 |                                             | Add each guest's total to `Revenue`           |                            |
-![Flowchart 1](flowchart1.png)
+![Flowchart](FLOWCHART%201.jpeg)
