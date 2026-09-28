@@ -1,3 +1,5 @@
+-NAIMA AZAM -26K-2504 -BS DS 1A
+
 | **Input**                        | **Process**                                              | **Output**                    |
 | -------------------------------- | -------------------------------------------------------- | ----------------------------- |
 | Number of students `N`           | Set `sum = 0` and `subjectFail = false` for each student | Total marks                   |
