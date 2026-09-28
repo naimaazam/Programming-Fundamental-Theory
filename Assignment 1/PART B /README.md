@@ -2,4 +2,4 @@
 -NAIMA AZAM
 -26K-2504
 -BS DS 1A
--This folder contains and solutions for Part B of Assignment 1.
+-This folder contains solutions for Part B of Assignment 1.
