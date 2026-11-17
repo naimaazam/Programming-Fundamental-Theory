@@ -1,3 +1,7 @@
+/* Programmer: Naima Azam
+   Roll no: 26K-2504
+   Description: Cinema Hall Seat Booking Management System 
+*/
 #include <stdio.h>
 main(){
 	int row,col,i,j,k,middle;
